@@ -88,3 +88,7 @@ function mySecondVal (getArray){
 console.log(mySecondVal(myNewArray))
 console.log(mySecondVal([74,4,54,84,35]))
 
+
+
+
+
